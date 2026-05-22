@@ -54,5 +54,3 @@ Projeto acadêmico e colaborativo voltado ao desenvolvimento de soluções tecno
 Organização destinada aos projetos desenvolvidos para a Global Solution.
 
 🔗 https://github.com/Global-Solution-1
-- E-mail: seu-email@email.com
-
