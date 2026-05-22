@@ -1,67 +1,45 @@
-# 👩🏻‍💻 Gabriela de Sousa Reis 
+# 👩‍💻 Gabriela de Sousa Reis
 
-**Desenvolvedora FullStack**
+## Desenvolvedora Full Stack | Estudante de Ciência da Computação
 
-Me chamo Gabriela de Sousa Reis, tenho 19 anos e moro em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e explorando maneiras de unir o uso da tecnologia para resolver problemas do mundo real.
+Olá! Sou Gabriela, estudante de Ciência da Computação, apaixonada por tecnologia e desenvolvimento de software.
 
-Desenvolvo projetos com soluções inovadoras e o uso de linguagens de programação para a criação de sistemas eficientes, intuitivos e escaláveis.
+Tenho experiência no desenvolvimento de aplicações web e APIs, trabalhando com tecnologias como Java, C#, React e bancos de dados relacionais e não relacionais. Gosto de transformar problemas reais em soluções digitais eficientes, intuitivas e escaláveis, sempre buscando aprimorar minhas habilidades técnicas e aprender novas tecnologias.
+
+Atualmente, meu foco está em desenvolvimento Full Stack, arquitetura de software, APIs REST e boas práticas de engenharia de software.
 
 ---
 
-### ⌨️ Linguagens e Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-<img 
-    align="left"
-    width=45 
-    style="padding-right: 10px;"
-    style="padding-right: 10px, align: 'left'" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
+<p align="left">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
 
-<img 
-    align="left"
-    width=45 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+---
 
-<img
-    align="left"
-    width=45 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+## 📚 Atualmente estudando
 
-<img
-    align="left"
-    width=45 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
+- Desenvolvimento Full Stack
+- APIs REST com Java e .NET
+- React e React Native
+- Banco de Dados Oracle e SQL
+- Arquitetura de Software
+- Testes Automatizados
 
-<img
-    align="left"
-    width=45 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+---
 
-<img
-    align="left"
-    width=45 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
-/>
+## 📫 Contato
 
-<br>
-<br>
+- E-mail: gabrielaasreiss@gmail.com
+- Linkedin: www.linkedin.com/in/dev-gabrielareis
 
-
-
-          
-          
-
-
-          
-          
-
-
+- LinkedIn: seu-linkedin
+- E-mail: seu-email@email.com
