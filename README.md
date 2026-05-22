@@ -41,5 +41,18 @@ Atualmente, meu foco está em desenvolvimento Full Stack, arquitetura de softwar
 - E-mail: gabrielaasreiss@gmail.com
 - Linkedin: www.linkedin.com/in/dev-gabrielareis
 
-- LinkedIn: seu-linkedin
+---
+
+## 🏢 Organizações
+
+### 🚀 Challenge Mottu
+Projeto acadêmico e colaborativo voltado ao desenvolvimento de soluções tecnológicas.
+
+🔗 https://github.com/ChallengeMottu
+
+### 🌎 Global Solution
+Organização destinada aos projetos desenvolvidos para a Global Solution.
+
+🔗 https://github.com/Global-Solution-1
 - E-mail: seu-email@email.com
+
