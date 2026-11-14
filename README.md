@@ -1,6 +1,6 @@
 # 👩‍💻 Gabriela de Sousa Reis
 
-## Desenvolvedora Full Stack | Estudante de Ciência da Computação
+## Estudante de Ciência da Computação
 
 Olá! Sou Gabriela, estudante de Ciência da Computação, apaixonada por tecnologia e desenvolvimento de software.
 
